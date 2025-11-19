@@ -7,7 +7,7 @@
 
 ## Sobre o Projeto
 
-Este projeto aborda o desafio da sustentabilidade em ambientes industriais de alto consumo. Utilizando **dados reais** de uma indústria siderúrgica, desenvolvemos uma solução baseada em Análise de Dados e Simulação Computacional para otimizar o consumo energético, reduzir custos operacionais e mitigar a pegada de carbono.
+Este projeto aborda o desafio da sustentabilidade em ambientes industriais de alto consumo. Utilizando **dados reais** de uma indústria siderúrgica, desenvolvemos uma solução baseada em Análise de Dados e Simulação Computacional para otimizar o consumo energético, reduzir custos operacionais e mitigar a emissão de carbono.
 
 A solução conecta o **Futuro do Trabalho** com a responsabilidade ambiental, demonstrando como a tomada de decisão baseada em dados (Data-Driven) pode transformar rotinas produtivas.
 
@@ -47,7 +47,7 @@ A aplicação desta solução promove melhorias diretas no ambiente de trabalho:
 
 * **Ambientes Mais Econômicos:** A simulação financeira projeta uma redução drástica nos custos fixos, liberando capital para investimento em segurança e tecnologia.
 * **Operação Inteligente:** A automação da análise de dados elimina a necessidade de leitura manual de medidores e permite ajustes proativos de carga (Load Shifting).
-* **Responsabilidade Ambiental:** A redução direta do consumo da rede elétrica diminui a demanda por fontes fósseis nos horários de pico.
+* **Responsabilidade Ambiental:** A redução direta do consumo da rede elétrica diminui a demanda por fontes fósseis nos horários de pico, e uma consequente descarbonização da operação.
 
 ### Resultados da Simulação (Estimados)
 
