@@ -59,7 +59,7 @@ A aplicação desta solução promove melhorias diretas no ambiente de trabalho:
 
 ---
 
-## Tecnologias e Ferramentas
+## Tecnologia e Ferramentas
 
 * **Linguagem:** Python
 * **Bibliotecas de Análise:** `pandas`, `numpy`
