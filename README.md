@@ -1,8 +1,9 @@
 # 🏭 Eficiência Energética na Indústria 4.0: Análise de Dados e Simulação em Siderúrgica
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![Data Science](https://img.shields.io/badge/Area-Data%20Science-green.svg)
-![Industry 4.0](https://img.shields.io/badge/Context-Industry%204.0-orange.svg)
+## Integrantes
+- Gabriel Nacarelli Pinheiro – RM: 565298 
+- Mateus Patrício Pereira – RM: 564695
+- Raphael Talarico – RM: 565219
 
 ## Sobre o Projeto
 
