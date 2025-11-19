@@ -1,12 +1,10 @@
 # 🏭 Eficiência Energética na Indústria 4.0: Análise de Dados e Simulação em Siderúrgica
 
-> **Projeto Acadêmico** | **Status:** Concluído ✅
-
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Data Science](https://img.shields.io/badge/Area-Data%20Science-green.svg)
 ![Industry 4.0](https://img.shields.io/badge/Context-Industry%204.0-orange.svg)
 
-## 📄 Sobre o Projeto
+## Sobre o Projeto
 
 Este projeto aborda o desafio da sustentabilidade em ambientes industriais de alto consumo. Utilizando **dados reais** de uma indústria siderúrgica, desenvolvemos uma solução baseada em Análise de Dados e Simulação Computacional para otimizar o consumo energético, reduzir custos operacionais e mitigar a pegada de carbono.
 
@@ -14,7 +12,7 @@ A solução conecta o **Futuro do Trabalho** com a responsabilidade ambiental, d
 
 ---
 
-## 📊 Fonte de Dados (Dados Reais)
+## Fonte de Dados (Dados Reais)
 
 Os dados utilizados neste projeto são provenientes de uma **Siderúrgica (Steel Industry)** localizada na cidade de Gwangyang, Coreia do Sul.
 * **Fonte:** UCI Machine Learning Repository (DAEWOO Steel Co. Ltd).
@@ -23,7 +21,7 @@ Os dados utilizados neste projeto são provenientes de uma **Siderúrgica (Steel
 
 ---
 
-## 🎯 Objetivos e Solução Proposta
+## Objetivos e Solução Proposta
 
 O objetivo central é responder: **"Como podemos tornar uma indústria pesada mais eficiente e sustentável sem prejudicar a produção?"**
 
@@ -42,7 +40,7 @@ Desenvolvemos um algoritmo em Python para simular a modernização da planta.
 
 ---
 
-## 🚀 Impacto na Rotina Produtiva e Sustentabilidade
+## Impacto na Rotina Produtiva e Sustentabilidade
 
 A aplicação desta solução promove melhorias diretas no ambiente de trabalho:
 
@@ -50,7 +48,7 @@ A aplicação desta solução promove melhorias diretas no ambiente de trabalho:
 * **Operação Inteligente:** A automação da análise de dados elimina a necessidade de leitura manual de medidores e permite ajustes proativos de carga (Load Shifting).
 * **Responsabilidade Ambiental:** A redução direta do consumo da rede elétrica diminui a demanda por fontes fósseis nos horários de pico.
 
-### 📈 Resultados da Simulação (Estimados)
+### Resultados da Simulação (Estimados)
 
 | Métrica | Resultado Anual | Impacto |
 | :--- | :--- | :--- |
@@ -60,20 +58,12 @@ A aplicação desta solução promove melhorias diretas no ambiente de trabalho:
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 * **Linguagem:** Python
 * **Bibliotecas de Análise:** `pandas`, `numpy`
 * **Visualização de Dados:** `matplotlib`, `seaborn`
 * **Ambiente de Desenvolvimento:** Google Colab
-
----
-
-Com certeza\! Um README bem elaborado é o cartão de visitas do seu projeto e demonstra profissionalismo, atendendo diretamente ao critério de **Usabilidade** (Clareza) e validando a **Técnica** (Descrição da metodologia).
-
-Abaixo está uma versão completa e robusta. Ela contextualiza o problema, prova a origem dos dados, detalha a solução técnica e destaca os impactos no "Futuro do Trabalho", exatamente como seu professor pediu.
-
-Você pode copiar e colar o conteúdo abaixo diretamente no arquivo `README.md` do seu GitHub.
 
 -----
 
