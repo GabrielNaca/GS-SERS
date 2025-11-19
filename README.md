@@ -30,7 +30,7 @@ A solução foi desenvolvida em duas frentes complementares:
 
 ### 1. Diagnóstico de Eficiência (Opção A)
 Realizamos uma Análise Exploratória de Dados (EDA) profunda para identificar padrões de desperdício.
-* **Metodologia:** Criação de **Mapas de Calor (Heatmaps)** para cruzar hora do dia vs. dia da semana.
+* **Metodologia:** Criação de **Mapas de Calor (Heatmaps)** para cruzar hora do dia vs dia da semana.
 * **Descoberta:** O consumo crítico e o desperdício de energia reativa concentram-se nos **dias úteis entre 08h e 18h**, coincidindo com tarifas energéticas mais caras.
 * **Diagnóstico:** A fábrica opera com alta ineficiência reativa durante os picos de carga (*Maximum_Load*).
 
@@ -66,22 +66,8 @@ A aplicação desta solução promove melhorias diretas no ambiente de trabalho:
 * **Visualização de Dados:** `matplotlib`, `seaborn`
 * **Ambiente de Desenvolvimento:** Google Colab
 
------
 
-## 📂 Estrutura do Repositório
-
-```
-
-├── README.md                   \# Documentação do projeto
-├── analise\_siderurgica.ipynb   \# Código Python (Jupyter Notebook) com a solução completa
-├── Steel\_industry\_data.csv     \# Dataset utilizado (Dados Brutos)
-└── images/                     \# Gráficos gerados para o relatório
-
-````
-
----
-
-## ⚙️ Como Executar o Projeto
+## Como Executar o Projeto
 
 Para replicar as análises e simulações:
 
@@ -94,4 +80,4 @@ Para replicar as análises e simulações:
 3.  **Carregue os Dados:**
     Certifique-se de que o arquivo `Steel_industry_data.csv` esteja no mesmo diretório do script ou faça o upload na sessão do Colab.
 4.  **Execute as Células:**
-    Rode o código sequencialmente para gerar os diagnósticos (Heatmaps) e os gráficos de viabilidade econômica.
+    Rode o código sequencialmente para gerar os diagnósticos (Heatmaps) e o gráfico de viabilidade econômica.
