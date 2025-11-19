@@ -81,4 +81,4 @@ Para replicar as análises e simulações:
 3.  **Carregue os Dados:**
     Certifique-se de que o arquivo `Steel_industry_data.csv` esteja no mesmo diretório do script ou faça o upload na sessão do Colab.
 4.  **Execute as Células:**
-    Rode o código sequencialmente para gerar os diagnósticos (Heatmaps) e o gráfico de viabilidade econômica.
+    Rode o código sequencialmente para gerar os diagnósticos (Heatmaps) e os gráficos de viabilidade econômica.
