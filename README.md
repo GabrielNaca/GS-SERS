@@ -59,13 +59,14 @@ A aplicação desta solução promove melhorias diretas no ambiente de trabalho:
 
 ---
 
-## Tecnologia e Ferramentas
+## Tecnologias e Ferramentas
 
 * **Linguagem:** Python
 * **Bibliotecas de Análise:** `pandas`, `numpy`
 * **Visualização de Dados:** `matplotlib`, `seaborn`
 * **Ambiente de Desenvolvimento:** Google Colab
 
+---
 
 ## Como Executar o Projeto
 
